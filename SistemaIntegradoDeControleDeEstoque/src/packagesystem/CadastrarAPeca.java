@@ -11,6 +11,7 @@ public class CadastrarAPeca {
 
     public CadastrarAPeca(String produto,int quantidade,double preco,double descontoMaximo){
         this.produto = produto;
+        this.quantidade = quantidade;
         this.preco = preco;
         this.descontoMaximo = descontoMaximo;
     }
