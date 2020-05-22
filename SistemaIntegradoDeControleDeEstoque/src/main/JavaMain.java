@@ -1,5 +1,5 @@
-package packagemain;
-import packagesystem.*;
+package main;
+import system.*;
 public class JavaMain {
     public static void main(String[] args) {
         CadastrarAPeca cp1 = new CadastrarAPeca("banana",999,2.00,5);

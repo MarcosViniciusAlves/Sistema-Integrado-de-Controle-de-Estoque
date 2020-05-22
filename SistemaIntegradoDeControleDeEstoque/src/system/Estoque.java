@@ -1,4 +1,4 @@
-package packagesystem;
+package system;
 
 public class Estoque {
     private CadastrarAPeca[] cadastrarAPecas;
